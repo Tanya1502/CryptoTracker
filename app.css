@@ -1,0 +1,20 @@
+.main{
+    margin:2rem
+}
+.mainClick{
+    margin-top: 10%;
+}
+.body{
+    background-color: #14213d;
+}
+.fix{
+    border:2px solid #fca311;
+    border-radius: 5px;
+    background-color:#fca311 ;
+    padding: 10px;
+    
+}
+
+.tableRow{
+    color:white;
+}
